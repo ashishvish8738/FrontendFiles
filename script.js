@@ -23,3 +23,9 @@ var reverseEachWord = reverseBySeparator(reverseEntireSentence, " ");
 function reverseBySeparator(string, separator) {
   return string.split(separator).reverse().join(separator);
 }
+
+
+function getItems(fruitList, favoriteFruit, ...args) {
+  return [...fruitList, ...args, favoriteFruit];
+}
+getItems(['banana', 'apple'], 'pear', 'orange');
