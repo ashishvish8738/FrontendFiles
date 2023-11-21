@@ -11,6 +11,11 @@ modifyArray(arr, function() {
   console.log("array has been modified", arr);
 });
 
+function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}
+getItems(["banana", "apple"], "pear", "orange")
+
 
 var string = "Welcome to this Javascript Guide!";
 
