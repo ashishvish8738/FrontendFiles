@@ -13,6 +13,10 @@ function getItems(fruitList, ...args, favoriteFruit) {
   return [...fruitList, ...args, favoriteFruit]
 }
 getItems(["banana", "apple"], "pear", "orange")
+function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}
+getItems(["banana", "apple"], "pear", "orange")
 
 var arr = [1, 2, 3, 4, 5];
 
