@@ -11,7 +11,15 @@ getItems(["banana", "apple"], "pear", "orange")function getItems(fruitList, ...a
   return [...fruitList, ...args, favoriteFruit]
 }function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
 getItems(["banana", "apple"], "pear", "orange")
+function getItems(fruitList, ...args, favorit
+                  function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+getItems(["banana", "apple"], "pear", "orange")
 function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}
+getItems(["banana", "apple"], "pear", "orange")eFruit) {
   return [...fruitList, ...args, favoriteFruit]
 }
 getItems(["banana", "apple"], "pear", "orange")
