@@ -9,7 +9,15 @@ function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitLis
 }function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
 getItems(["banana", "apple"], "pear", "orange")function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
   return [...fruitList, ...args, favoriteFruit]
+}function getItems(fruitList, ...args, favorite
+                   function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
 }function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+getItems(["banana", "apple"], "pear", "orange")
+function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}
+getItems(["banana", "apple"], "pear", "orange")Fruit) {function getItems(fruitList, ...args, favoriteFruit) {
 getItems(["banana", "apple"], "pear", "orange")
   function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
   return [...fruitList, ...args, favoriteFruit]
