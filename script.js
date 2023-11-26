@@ -7,7 +7,32 @@ function modifyArray(arr, callback) {
 function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...arfunction modifyArray(arr, callback) {
   // do something to arr here
   arr.push(100);
+  // then execute the callback function that was passedfunction modifyArray(arr, callback) {
+  // do something to arr here
+  arr.push(100);
   // then execute the callback function that was passed
+  callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+}
+function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+getItems(["banana", "apple"], "pear", "orange")function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}function getItems(fruitList, ...args, favorite
+                   function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+getItems(["banana", "apple"], "pear", "orange")
+function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}
+getItems(["banana", "apple"], "pear", "orange")Fruit) {function getItems(fruitList, ...args, favoriteFruit) {
+getItems(["banana", "apple"], "pear", "orange")
+  function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+  return [...fruitList, ...args, favoriteFruit]
+}function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+getItems(["banana", "apple"], "pear", "orange")
+function getItems(fruitList, ...args, favoriteFruit) {
   callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
 }function modifyArray(arr, callback) {
   // do something to arr here
