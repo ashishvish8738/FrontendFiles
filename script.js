@@ -7,6 +7,11 @@ function modifyArray(arr, callback) {
   callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
 } arr.push(100);
   // then execute t
+   arr.push(100);
+  // then execute the callback function that was passed
+  callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+} arr.push(100);
+  // then execute t
   callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
 } arr.push(100);
                                                                     arr.push(100);
