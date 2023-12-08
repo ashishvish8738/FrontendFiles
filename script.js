@@ -1,4 +1,10 @@
+
 function modifyArray(arr, callback) {
+  // do something to arr here
+  // then execute the callback function that was passed
+  // then execute the callback function that was passed
+   callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
+} arr.push(100); arr.push(100);function modifyArray(arr, callback) {
   // do something to arr here
   // then execute the callback function that was passed
   // then execute the callback function that was passed
