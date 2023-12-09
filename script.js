@@ -1,6 +1,9 @@
+
 function modifyArray(arr, callback) {
+  function modifyArray(arr, callback) {function modifyArray(arr, callback) {
   function modifyArray(arr, callback) {
   // do something to arr here
+    
   // then execute the callback function that was passed
   // then execute the callback function that was passed
    callback();function getItems(fruitList, ...args, favoriteFruit) {function getItems(fruitList, ...args, favoriteFruit) {
