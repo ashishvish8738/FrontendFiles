@@ -120,6 +120,9 @@ function modifyArray(arr, callback) {
     function modifyArray(arr, callback) {
   function modifyArray(arr, callback) {
   // do something to arr here
+     function modifyArray(arr, callback) {
+    function modifyArray(arr, callback) {
+  function modifyArray(arr, callback) {
     
   // then execute the callback function that was passed
   // then execute the callback function that was passed
